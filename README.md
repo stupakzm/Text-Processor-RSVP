@@ -25,8 +25,9 @@ Rapid Serial Visual Presentation (RSVP) is a method used primarily in cognitive 
 
 ## Control the Display:
 -  **Spacebar**: Pause/resume the text display.
--  **Arrow Up/Down**: Increase or decrease the frame duration.
 -  **Arrow Left/Right**: Navigate back and forth between sentences.
+-  #while paused:
+-  **Arrow Up/Down**: Increase or decrease the frame duration.
 -  **'A' or 'a'**: Toggle automatic continuation of sentences.
 -  **Escape Key**: Exit the current display and save the sentence index.
 -  **'1', '2', '3'**: Set the number of words displayed per frame to one, two, or three, respectively.
